@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7386ab1-63fc-4617-99bb-50994049f3e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/client/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world_service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world_service_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloword.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stub/github.com/DoubleZ0405/trpc_demo/helloworld/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stub/github.com/DoubleZ0405/trpc_demo/helloworld/helloword.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stub/github.com/DoubleZ0405/trpc_demo/helloworld/helloword.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stub/github.com/DoubleZ0405/trpc_demo/helloworld/helloword.trpc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stub/github.com/DoubleZ0405/trpc_demo/helloworld/helloword_mock.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trpc_go.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/trpc.app.HelloWorldService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
